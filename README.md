@@ -4,11 +4,14 @@ The Matrix system is one of the modern and modern systems in its method of work 
 
 # How to use_
 1- clone the repo or download it az zip file and unzip it to your local server directory
+
 2- create a local db in phpmyadmin with name (matrix) and import database from db folder to it 
+
 3- login with this info
     username:admin
     password:admin
     
 4-custumaize your store and start working
+
 
 
